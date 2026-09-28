@@ -1,4 +1,4 @@
-SQLAlchemy book library data management system
+1. SQLAlchemy book library data management system
 
 Real-world academic database development project
 
