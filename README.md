@@ -21,7 +21,7 @@ A class-based book library data management system for managing borrowed and retu
 
 Database-driven developers workplace data management system
 
-Real world personal full-stack project
+Real world personal database-driven project
 
 Type: Object-Oriented Programming based employees data management system
 
@@ -41,9 +41,34 @@ A class-based workplace data management and task tracking system for managing an
 - Implemented SQLAlchemy ORM models and relationships for scalable and secure employee data           management operations
 - Eliminated SQL injection risks by applying ORM-based parameterized queries
 
+2.3
+
 Project structure:
 
 - roles.py – defines employee roles, experience and personal information
 - company.py – manages company data
 - sensitive_data_protection.py – handles personal user data security logic within SQLAlchemy          database
+
+3. SQLite book library data management system
+
+Type: SQL database development fundamentals-based project  
+
+Real-world academic database-driven project
+
+3.1. 
+
+A real world database-drivem project that shows core SQL fundamentals application in relational
+database development
+
+3.2
+
+Key features:
+
+- Established book library data management system structure by designing database schemas 
+- Supported structured data storage by implementing appropriate SQL data types within database        tables 
+- Maintained data integrity across multiple tables by implementing foreign key relationships  
+- Supported efficient data management by implementing CRUD operations for inserting, filtering, and   retrieving book and reader data.
+- Eliminated SQL injection vulnerabilities to protect sensitive user data such as name, email,        password by implementing parameterized queries
+
+
 
