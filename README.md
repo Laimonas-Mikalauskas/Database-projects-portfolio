@@ -19,7 +19,7 @@ A class-based book library data management system for managing borrowed and retu
 - Performed CRUD operations for data storage, retrieval, update and deletion
 - Implemented ORM models and relationships between the objects for scalable data management           operations
 
-Database-driven developers workplace data management system
+2. Database-driven developers workplace data management system
 
 Real world personal database-driven project
 
