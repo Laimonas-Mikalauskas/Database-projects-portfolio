@@ -1,6 +1,6 @@
 # 1. SQLAlchemy book library data management system
 
-Real-world academic database development project
+Real-world academic database-driven project
 
 Type: Object-oriented book library data management system
 
