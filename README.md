@@ -67,7 +67,7 @@ database development
 - Eliminated SQL injection vulnerabilities to protect sensitive user data such as name, email,        password by implementing parameterized queries
 
 # 4. Tech stack:
-- Python (OOP, control flow, exception handling, correct handler execution, formatted console output)
+- Python (OOP, control flow, exception handling, formatted console output)
 - SQLite & SQLAlchemy (RDBMS & ORM)
 
 
