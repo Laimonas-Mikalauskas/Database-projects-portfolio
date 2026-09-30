@@ -13,11 +13,11 @@ A class-based book library data management system for managing borrowed and retu
 # 1.2 Key features added:
 
 - Applied class-based architecture for structured and maintainable code design
-- Displayed SQL query results by implementing formatted console output
+- Implemented core Python data types to display processed SQL query results in the terminal
 - Applied control flow (while, for loops to execute program repeatedly)
 - Implemented exception handling for database operations to prevent potential errors and improve -    data management system reliability
 - Performed CRUD operations for data storage, retrieval, update and deletion
-- Implemented ORM models and relationships between the objects for scalable data management           operations
+- Implemented ORM models and table relationships between the objects for scalable data management           operations
 
 # 2. Database-driven developers workplace data management system
 
@@ -34,7 +34,7 @@ A class-based workplace data management and task tracking system for managing an
 # 2.2. Key features made:
 
 - Applied class-based architecture to maintain and structure Python code design
-- Displayed SQL query results via formatted console output
+- Implemented core Python data types to display processed SQL query results in the terminal
 - Applied control flow (while, for loops to execute program repeatedly)
 - Implemented exception handling for database operations to prevent potential errors and improve      data management system reliability
 - Performed CRUD operations for user data storage, retrieval, update and deletion
@@ -65,6 +65,10 @@ database development
 - Maintained data integrity across multiple tables by implementing foreign key relationships  
 - Supported efficient data management by implementing CRUD operations for inserting, filtering, and   retrieving book and reader data.
 - Eliminated SQL injection vulnerabilities to protect sensitive user data such as name, email,        password by implementing parameterized queries
+
+# 4. Tech stack:
+- Python (OOP, control flow, exception handling, correct handler execution, formatted console output)
+- SQLite & SQLAlchemy (RDBMS & ORM)
 
 
 
