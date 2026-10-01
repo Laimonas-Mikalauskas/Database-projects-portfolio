@@ -13,7 +13,7 @@ A class-based book library data management system for managing borrowed and retu
 # 1.2 Key features added:
 
 - Applied class-based architecture for structured and maintainable code design
-- Implemented core Python data types to display it in the terminal
+- Implemented core Python data types to display data in the terminal
 - Applied control flow (while, for loops to execute program repeatedly)
 - Implemented exception handling for database operations to prevent potential errors and improve -    data management system reliability
 - Performed CRUD operations for data storage, retrieval, update and deletion
@@ -34,7 +34,7 @@ A class-based workplace data management and task tracking system for managing an
 # 2.2. Key features made:
 
 - Applied class-based architecture to maintain and structure Python code design
-- Implemented core Python data types to display it in the terminal
+- Implemented core Python data types to display data in the terminal
 - Applied control flow (while, for loops to execute program repeatedly)
 - Implemented exception handling for database operations to prevent potential errors and improve      data management system reliability
 - Performed CRUD operations for user data storage, retrieval, update and deletion
